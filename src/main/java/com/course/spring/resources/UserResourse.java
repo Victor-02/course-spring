@@ -1,4 +1,4 @@
-package com.course.spring.resourses;
+package com.course.spring.resources;
 
 import java.net.URI;
 import java.util.List;
